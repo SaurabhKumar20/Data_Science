@@ -1,2 +1,2 @@
 # Data_Science
-Data Science contains projects done in Machine Learning, SQL, PowerBi &amp; Time Series.
+Data_Science folder contains projects done in Machine Learning, SQL, PowerBi &amp; Time Series.
